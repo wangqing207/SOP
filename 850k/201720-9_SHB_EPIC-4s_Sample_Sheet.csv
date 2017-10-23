@@ -1,0 +1,12 @@
+[Header],,,,,,
+Investigator Name,Scientist,,,,,
+Project Name,201720-9_SHB_EPIC-24s-Batch2-16s,,,,,
+Experiment Name,sg,,,,,
+Date,2017/5/25,,,,,
+,,,,,,
+[Data],,,,,,
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position
+JBM-C,E02,5122561,g2,,201236470102    ,R05C01
+JBM-L,F02,5122561,g1,,201236470102    ,R06C01
+SKX-C,G02,5122561,g2,,201236470102    ,R07C01
+SKX-L,H02,5122561,g1,,201236470102    ,R08C01
